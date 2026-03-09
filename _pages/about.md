@@ -32,7 +32,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am currently a researcher in the fields of **Human-Computer Interaction (HCI)** and **Human-Robot Interaction (HRI)**. My research focuses on designing interactive systems that support **cognitive augmentation**, **attention enhancement**, and **affective computing**, with a particular interest in how robots and intelligent interfaces can assist people in their everyday work, learning, and emotional experiences.
 
-My broader interests lie in understanding and shaping how humans interact with embodied and intelligent technologies in more natural, adaptive, and emotionally aware ways. I am especially interested in interactive systems that enhance attention, cognition, and well-being through multimodal sensing, embodied interaction, and human-centered design.
+My broader interests lie in understanding and shaping how humans interact with embodied and intelligent technologies in more natural, adaptive, and emotionally aware ways. I am interested in interactive systems that enhance attention, cognition, and well-being through multimodal sensing, embodied interaction, and human-centered design.
 
 I am passionate about exploring how robot can become a more supportive, intuitive, and meaningful partner in people’s lives. Through my research, I hope to contribute to the design of future interactive systems that better respond to human cognitive and emotional needs.
 
