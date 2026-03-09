@@ -34,20 +34,6 @@ My broader interests lie in understanding and shaping how humans interact with e
 
 I am passionate about exploring how robot can become a more supportive, intuitive, and meaningful partner in people’s lives. Through my research, I hope to contribute to the design of future interactive systems that better respond to human cognitive and emotional needs.
 
-<!--I am currently a third-year Master’s student in Mechanical Engineering - International Industrial Design Engineering (**GPA: 3.92/4.0, Rank: Top 5%**), 
-[School of Design](https://designschool.sjtu.edu.cn/en-us) at [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/), 
-under the supervision of Prof. [Danni Chang (Associate Dean)](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/viceprofessor/detail/5ec4e69c77d93a7fe5885e88). 
-I am now also a visiting student in [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/) at [**Singapore University of Technology and Design (SUTD)**](https://www.sutd.edu.sg/), 
-under the supervision of Prof. [Jianxi Luo](https://epd.sutd.edu.sg/people/faculty/luo/).
-
-My broad research interests include **Human-Computer Interaction (HCI)**, **Human-AI Interaction (HAI)**, **AR & VR**, **Accessibility**, **Education Technology**, and their application to Multimodal Human Perception and Engagement, Digital Health, CSCW, as well as Data-driven Approach to Human-centered Design (HCD) and Pervasive Computing.
-
-I am passionate about exploring how people can better interact with the world in a multimodal and natural way, enriched with diverse perceptions and emotions. I hope to work on this idea on the way to pursuing further study and feel more confident than ever to make it happen.
-
-My hobbies contain Tennis, Writing, Hiking, Painting and Meditating
--->
-
-
 [//]: # (This is the direction I am passionate about, something I think is meaningful, and something I will stick to. )
 
 
